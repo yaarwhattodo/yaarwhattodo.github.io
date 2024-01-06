@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Gaming Blog</title>
+    <title>Treanding - Gaming Blog</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -62,13 +62,13 @@
     <section>
         <h2>Latest Blog Posts</h2>
         <article>
-            <h3>Trending Game Title 1</h3>
+            <h3>Trending Game exciting</h3>
             <p>Here's some information about the trending game. Write your thoughts and insights about the game here.</p>
             <p><a href="#">Read more</a></p>
         </article>
 
         <article>
-            <h3>Trending Game Title 2</h3>
+            <h3>Trending Game entertaining</h3>
             <p>Share your thoughts and information about the second trending game here.</p>
             <p><a href="#">Read more</a></p>
         </article>
